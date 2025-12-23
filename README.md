@@ -1,4 +1,3 @@
 # Hola, mi nombre es Pedro Valdez👋
-### Tecnologías de la Información - Uleam
+### Ing. en Tecnologías de la Información
 
-![](https://github.com/FernandoMDFK/FernandoMDFK/blob/main/LOGO-ULEAM-VERTICAL.png)
